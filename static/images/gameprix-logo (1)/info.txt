@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: AndikaNewBasic-B
+font link: https://www.fontsquirrel.com/fonts/andika-basic
+font author: Sil International
+font author site: http://scripts.sil.org/
+
+
+icon designer: David Padrosa
+icon designer link: /david.padrosa
+        
+{"bg":"#FCF8E4","icon-gradient-0":"#E98C00","icon-gradient-1":"#E1FD00","font":"#544D28","slogan":"#68613c"}
+      
